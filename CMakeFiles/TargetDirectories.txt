@@ -1,0 +1,9 @@
+/Users/miranus/work/Devs/particle_viscoelastic/ysh03_ver10/CMakeFiles/par_visEls.dir
+/Users/miranus/work/Devs/particle_viscoelastic/ysh03_ver10/CMakeFiles/runclean.dir
+/Users/miranus/work/Devs/particle_viscoelastic/ysh03_ver10/CMakeFiles/sign.dir
+/Users/miranus/work/Devs/particle_viscoelastic/ysh03_ver10/CMakeFiles/strip_comments.dir
+/Users/miranus/work/Devs/particle_viscoelastic/ysh03_ver10/CMakeFiles/run.dir
+/Users/miranus/work/Devs/particle_viscoelastic/ysh03_ver10/CMakeFiles/info.dir
+/Users/miranus/work/Devs/particle_viscoelastic/ysh03_ver10/CMakeFiles/debug.dir
+/Users/miranus/work/Devs/particle_viscoelastic/ysh03_ver10/CMakeFiles/distclean.dir
+/Users/miranus/work/Devs/particle_viscoelastic/ysh03_ver10/CMakeFiles/release.dir
